@@ -1,16 +1,44 @@
-# hostel96_landlord
+# Hotel96-Landlord
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+- **Landing Page**:
+  - ![Landing Page](screenshots/Landing.jpg)
 
-This project is a starting point for a Flutter application.
+- **My Booking Page**:
+  - ![My Booking Page](screenshots/MyBooking.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+- **Accounts Page**:
+  - ![Accounts Page](screenshots/AccountSection.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **My Listing Page**:
+  - ![My Listing Page](screenshots/MyListing.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Listing Page**:
+  - ![Add Listing Page](screenshots/AddListing_1.jpg)
+  - ![Add Listing Page](screenshots/AddListing_2.jpg)
+  - ![Add Listing Page](screenshots/AddListing_3.jpg)
+  - ![Add Listing Page](screenshots/AddListing_4.jpg)
+  - ![Add Listing Page](screenshots/AddListing_5.jpg)
+  - ![Add Listing Page](screenshots/AddListing_6.jpg)
+
+- **Call Request Page**:
+  - ![Call Request Page](screenshots/CallRequest.jpg)
+
+- **Cancellation Policy Page**:
+  - ![Cancellation Policy Page](screenshots/CancellationPolicy.jpg)
+
+- **Edit Listing Page**:
+  - ![Edit Listing Page](screenshots/EditListing.jpg)
+
+- **Edit Profile Page**:
+  - ![Edit Profile Page](screenshots/EditProfile.jpg)
+
+- **Privacy Policy Page**:
+  - ![Privacy Policy Page](screenshots/PrivacyPolicy.jpg)
+
+- **Share App Page**:
+  - ![Share App Page](screenshots/ShareApppopup.jpg)
+
+- **Terms and Conditions Page**:
+  - ![Terms and Conditions Page](screenshots/TermAndCondition.jpg)
